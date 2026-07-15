@@ -178,14 +178,14 @@ See `PUBLIC_SCOPE.md`.
 
 ## Contributors
 
-**Mathieu [SURNAME]**
+**Mathieu EMANE**
 Project lead — scientific framing, controlled-environment horticulture, systems design and AI-assisted research methodology.
 
 Additional contributors will be listed only after role confirmation and explicit consent.
 
 ## Contact
 
-Contact: [PUBLIC PROFESSIONAL EMAIL]
+Contact: mornys@outlook.fr
 
 ## Citation
 

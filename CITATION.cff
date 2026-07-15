@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research framework, please cite it using the metadata below."
+title: "From Biomass to Biochemical Yield: An Open Research Framework for Controlled-Environment Horticulture"
+authors:
+
+* family-names: "EMANE"
+  given-names: "Mathieu"
+  version: "0.1.0"
+  date-released: "2026-07-14"
+  repository-code: "https://github.com/StellaMys/biochemical-yield-cea"
+  abstract: >-
+  An open research framework for measuring targeted biochemical yield in
+  controlled-environment horticulture by combining harvested dry biomass,
+  analyte concentration, environmental trajectories, resource consumption,
+  uncertainty and reproducibility metadata.
+  keywords:
+* controlled-environment agriculture
+* horticulture
+* plant science
+* biochemical yield
+* metabolite yield
+* open science
+* model predictive control
+* reinforcement learning
